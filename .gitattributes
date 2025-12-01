@@ -1,3 +1,6 @@
+*.pbix filter=lfs diff=lfs merge=lfs -text
+*.pptx filter=lfs diff=lfs merge=lfs -text
+*.xlsx filter=lfs diff=lfs merge=lfs -text
 Capstone[[:space:]]Project[[:space:]]2.xlsx filter=lfs diff=lfs merge=lfs -text
 Capstone[[:space:]]Proj2.pbix filter=lfs diff=lfs merge=lfs -text
 Pizza-Sales-and-Revenue-Analysis-Report.pptx filter=lfs diff=lfs merge=lfs -text
